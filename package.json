@@ -33,7 +33,7 @@
     "kbwood-jquery-svg": "https://github.com/kbwood/svg/archive/1.5.0.tar.gz",
     "locutus.sprintf": "^2.0.14-code-lts.2",
     "mini-css-extract-plugin": "^2.5.3",
-    "ol": "6.9.0",
+    "ol": "6.14.1",
     "postcss": "^8.3.8",
     "postcss-cli": "^9.0.1",
     "postcss-loader": "^6.2.1",
