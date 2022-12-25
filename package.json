@@ -16,7 +16,7 @@
     "@popperjs/core": "^2.10.2",
     "@zxcvbn-ts/core": "^1.0.0-beta.0",
     "autoprefixer": "^10.3.6",
-    "babel-loader": "^8.2.3",
+    "babel-loader": "^8.2.4",
     "bootstrap": "5.1.3",
     "codemirror": "5.63.3",
     "copy-webpack-plugin": "^10.2.4",
